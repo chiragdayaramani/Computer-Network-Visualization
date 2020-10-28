@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph Visualization</title>
+    <link href="stylehome.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div>
+        <h1>Visualization of Computer Network Algorithm</h1>
+    </div>
+    <div>
+
+    </div>
+    <div class="container">
+        <p>Enter your data</p>
+        <form action="index.html">
+            <div class="form-group">
+                <input type="text" name="node[]" placeholder="Enter number of nodes">
+                <input type="text" name="start[]" placeholder="Enter links source starting from root">
+                <input type="text" name="end[]" placeholder="Enter corresponding targets">
+                <input type="text" name="weights[]" placeholder="Enter weights of the links resp">
+                <label for="algorithm">Select Your Algorithm</label>
+                <select name="myalgo" id="algo">
+                    <option value="ford">Ford Fulkerson</option>
+                    <option value="algo2">Algorithm 2</option>
+                    <option value="algo3">Algorithm 3</option>
+                </select>
+            </div>
+
+            <button class="btn">Submit</button>
+
+        </form>
+    </div>
+</body>
+
+</html>
