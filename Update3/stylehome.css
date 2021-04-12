@@ -1,25 +1,25 @@
 body {
-    background-color: #abbfd1;
+    background-color: lightblue;
 }
 
 h1 {
     color: white;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial', sans-serif;
     text-align: center;
-    background-color: #363641;
+    background-color: #80ced6;
     padding: 20px;
-    margin: 10px;
+    margin: 12px;
     border: 50px;
 }
 
 p {
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial', sans-serif;
     text-align: center;
     font-size: 35px;
 }
 
 .container {
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial ',sans-serif;
     text-align: center;
     border: 2px solid rgb(90, 72, 72);
     margin: 62px auto;
@@ -29,7 +29,7 @@ p {
 }
 
 .form-group input {
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial', sans-serif;
     text-align: center;
     display: block;
     width: 485px;
@@ -42,7 +42,7 @@ p {
 
 .form-group label {
     background-color: white;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial', sans-serif;
     text-align: center;
     display: block;
     width: 485px;
@@ -55,7 +55,7 @@ p {
 
 .form-group select {
     background-color: white;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial', sans-serif;
     text-align: center;
     display: block;
     width: 485px;
@@ -67,7 +67,7 @@ p {
 }
 
 .btn{
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Arial', sans-serif;
     margin: 0px 9px;
     padding: 1px 39px;
     border: 2px solid grey;
